@@ -1,1 +1,1 @@
-fullname = input("Enter your fullname: ")
+fullname = input("Enter your fullname: ").swapcase()
