@@ -1,1 +1,1 @@
-print(input("Enter your fullname: "))
+print(input("Enter your fullname: ").lower())
