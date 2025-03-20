@@ -1,1 +1,1 @@
- print(input('Enter a number (0-1000): '))
+print(input('Enter a number (0-1000): '))
