@@ -1,2 +1,2 @@
-trim_leading_spaces = input("Enter your fullname: ").lstrip()
-print(trim_leading_spaces)
+user_input = input("Enter your fullname: ").lstrip()
+print(user_input)
