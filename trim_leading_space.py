@@ -1,2 +1,2 @@
-full_name = input("Enter your fullname: ").lstrip()
-print(full_name)
+user_fullname = input("Enter your fullname: ").lstrip()
+print(user_fullname)
