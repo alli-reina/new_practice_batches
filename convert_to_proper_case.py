@@ -1,1 +1,2 @@
-print(input("Enter your fullname: "))
+fullname = input("Enter your fullname: ").title()
+print(fullname)
