@@ -1,3 +1,2 @@
-fullname = input("Enter your fullname: ")
-pascal_case = "".join(word.capitalize() for word in fullname.split())
-print(pascal_case)
+user_fullname = input("Enter your fullname: ").title().replace(" ","")
+print(user_fullname)
