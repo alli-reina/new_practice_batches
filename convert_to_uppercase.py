@@ -1,2 +1,2 @@
-fullname = input("Enter your fullname: ").lower()
+fullname = input("Enter your fullname: ").upper()
 print(fullname)
