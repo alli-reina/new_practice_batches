@@ -1,4 +1,2 @@
-def trim_leading_spaces():
-    print(input("Enter your fullname: ").lstrip())
-
-trim_leading_spaces()
+trim_leading_spaces = input("Enter your fullname: ").lstrip()
+print(trim_leading_spaces)
